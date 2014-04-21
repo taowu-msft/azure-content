@@ -18,6 +18,8 @@ To set up a cloud service to automatically build and deploy to Azure by using Vi
 -   [Step 3: Connect the project to Azure.][]
 
 -   [Step 4: Make changes and trigger a rebuild and redeployment.][]
+-   
+
 
 -   [Step 5: Redeploy an earlier build (optional)][]
 
